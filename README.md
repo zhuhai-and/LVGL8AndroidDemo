@@ -1,4 +1,4 @@
-# LVGLPortAndroid
+# LVGL8AndroidDemo
 
 Compile and study LVGL on Android!
 
