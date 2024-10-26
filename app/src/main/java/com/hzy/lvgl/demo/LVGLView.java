@@ -68,6 +68,7 @@ public class LVGLView extends SurfaceView implements SurfaceHolder.Callback {
     @Override
     public void surfaceDestroyed(@NonNull SurfaceHolder surfaceHolder) {
         mLVApp.stop();
-        mLVApp.destroy();
+        // will auto destroy
+        //mLVApp.destroy();
     }
 }
